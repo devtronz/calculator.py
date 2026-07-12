@@ -10,7 +10,8 @@ Press CTRL + O
 Press Enter
 Press CTRL + X
 
-2. Run the app
+2. Run the app:
 python3 calculator.py
+
 
 A small calculator window will open.
