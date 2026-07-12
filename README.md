@@ -1,7 +1,7 @@
 # calculator.py
 
 <div align="center">
-<img src="https://https://themagictrunk.co.in/cdn/shop/files/rn-image_picker_lib_temp_12988bb6-0e20-4f6e-bc2a-18a6ba6016e1.png?v=1766403451&width=720/banner.png" width="800">
+<img src="https://themagictrunk.co.in/cdn/shop/files/rn-image_picker_lib_temp_12988bb6-0e20-4f6e-bc2a-18a6ba6016e1.png?v=1766403451&width=720/banner.png" width="800">
 </div>
 
 1. Create a file
